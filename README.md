@@ -1,0 +1,1 @@
+# Digit-Detection-with-EasyOCR-and-Firebase-as-DB
