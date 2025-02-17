@@ -10,7 +10,7 @@ Original file is located at
 import cv2 
 import easyocr
 import firebase_admin
-from firebase_admin import credentials
+from firebase_admin import credentials 
 from firebase_admin import db
 import time
 
